@@ -1,4 +1,4 @@
-# NodeJs-ExpressJs-CRUD
+# NodeJs-ExpressJs-MongoDb
 Developing Restful API with Node.js and MongoDB Atlas Cloud. 
 -CHANGE DB USERNAME AND PASS
 
@@ -17,7 +17,7 @@ npm install validator
 ## Usage
 
 ```nodejs
-localhost:3000/products/create with keys.
+localhost:3000/product/getRecords
 new CRUD operations will be added .
 ```
 
