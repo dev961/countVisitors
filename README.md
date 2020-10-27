@@ -1,4 +1,4 @@
-# NodeJs-ExpressJs-MongoDb
+# NodeJs-ExpressJs-MongoDB
 Developing Restful API with Node.js and MongoDB Atlas Cloud. 
 -CHANGE DB USERNAME AND PASS
 
